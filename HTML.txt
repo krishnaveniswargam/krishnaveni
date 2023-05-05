@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+
+<head><link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"> </head>
+
+<body>
+    <div>
+        <div class="container">
+            <ul class="nav-bar">
+                <li>Home</li>
+                
+                <li>Order</li>
+                <li>Food</li>
+                <li>Restaurent</li>
+                <li>Testtimonials</li>
+                <li>Contact Us</li>
+                <div>
+                    <i class="fa fa-phone pho " aria-hidden="true" ></i>
+                    <i class="fa fa-shopping-cart" style="font-size:24px"></i>
+                    
+                </div>
+            </ul>
+        </div>
+        <div class="background-colors">
+            <div class="image">
+                <div class="sub-container">
+                    <h1 class="heading">LOREM IPSUM</h1>
+                    <p class="paragraph">Lorem ipsum has been the industry's standard dummy <br />
+                        text ever since the 1500s,when the unknown printer took<br />
+                        a galley of type and scrumbed it to make a type <br />
+                        speciman book.
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="background-colors2">
+        <h1 class="order-heading">Order Now</h1>
+        <div class="order-container">
+            <div class="order-background-color">
+                <img src="https://res.cloudinary.com/dbjh2mc9n/image/upload/v1683121578/img4_frbdtx.jpg" class="order-section-image" />
+                <h1>Burger</h1>
+                <p class="order-paragraph">Lorem Ipsum has been the <br />industry's standard dummy text</p>
+            </div>
+            <div class="order-background-color">
+                <img src="https://res.cloudinary.com/dbjh2mc9n/image/upload/v1683133166/img2_etupvj.jpg" class="order-section-image" />
+                <h1>PIZZA</h1>
+                <p class="order-paragraph">Lorem Ipsum has been the <br />industry's standard dummy text</p>
+            </div>
+            <div class="order-background-color">
+                <img src="https://res.cloudinary.com/dbjh2mc9n/image/upload/v1683133334/img3_c45tpq.jpg" class="order-section-image" />
+                <h1>PASTA</h1>
+                <p class="order-paragraph">Lorem Ipsum has been the <br />industry's standard dummy text</p>
+            </div>
+        </div>
+        <div class="btn-container">
+            <button class="btn button">Order</button>
+        </div>
+    </div>
+</body>
+
+</html>
